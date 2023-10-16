@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aymen Merrouche, PhD Candidate"
+  name             : "Aymen Merrouche"
   avatar           : "profile_me.jpg"
   bio              : "I am a PhD student at INRIA Grenoble-Morpheo Team, working on data driven geometry processing for human performance capture."
   location         : "Inria, Grenoble"
