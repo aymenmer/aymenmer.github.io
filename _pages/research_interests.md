@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Capturing the performance of a human
-![motion](images/result(2).jpg)
+![motion](../images/result(2).jpg)
 
 With the growing interest in virtual reality, the need of high quality 3D content has become imperative. Of particular interest is human performance capture, where we try to capture and reconstruct real performances of humans (and optionally other shapes classes like animals and objects). Reconstructed performances have a wide variety of applications in the digital entertainment industry such as character animation and free viewpoint video acquisition.
 
