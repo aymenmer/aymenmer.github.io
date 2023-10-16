@@ -7,4 +7,5 @@ date: 2023-11-01
 venue: 'BMVC 2023'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
+**Aymen Merrouche**, Jo\~ao Regateiro, Stefanie Wuhrer, Edmond Boyer
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
