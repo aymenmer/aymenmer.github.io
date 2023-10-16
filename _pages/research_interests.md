@@ -4,6 +4,8 @@ title: "My PhD"
 permalink: /research_interests/
 author_profile: true
 ---
+{% include base_path %}
+
 
 ## Capturing the performance of a human
 
