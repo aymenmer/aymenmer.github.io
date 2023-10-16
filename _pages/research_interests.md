@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Capturing the performance of a human
-![motion](../images/result(2).jpg)
+![motion](https://github.com/aymenmer/aymenmer.github.io/blob/master/images/result3(2).jpg)
 
 With the growing interest in virtual reality, the need of high quality 3D content has become imperative. Of particular interest is human performance capture, where we try to capture and reconstruct real performances of humans (and optionally other shapes classes like animals and objects). Reconstructed performances have a wide variety of applications in the digital entertainment industry such as character animation and free viewpoint video acquisition.
 
@@ -25,7 +25,7 @@ Human performance capture mobilizes a variety of research directions:
 
 
 ## Morpheo
-![logo](images/morpheo_logo(1).png)
+![logo](https://github.com/aymenmer/aymenmer.github.io/blob/master/images/morpheo_logo(1).jpeg)
 
 My PhD takes place within the [Morpheo Team](https://team.inria.fr/morpheo/) of Inria Grenoble. Morpheo is concerned with the development of computational solutions for the perception and the analysis of shapes in motion. Research directions in Morpheo can be divided in four main areas: shape acquisition from heterogeneous cameras, shape analysis, motion analysis and finally immersive and interactive environments. My PhD falls under the motion and shape analysis research direction. 
 
