@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-Short Bio
+Current Position
 ======
 I am currently a PhD student at Inria Grenoble in the [Morpheo Team](https://team.inria.fr/morpheo/). I work under the supervison of Dr. [Stefanie Whurer](https://swuhrer.gitlabpages.inria.fr/website/) and Dr. [Edmond Boyer](https://morpheo.inrialpes.fr/people/Boyer/) on data driven geometry processing for human performance capture. 
 
