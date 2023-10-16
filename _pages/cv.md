@@ -24,8 +24,7 @@ Internships
   * I worked on causal reasoning with graphical statistical models at LIP6, [Decision Team](https://www.lip6.fr/recherche/team.php?acronyme=DECISION) for 3 months under the supervision of [Dr Pierre-Henri Wuillemin](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P67).
   
 * Summer 2021: Learning 3D shape correspondence
-  * I worked on graph convolutional networks to solve for 3D shape correspondence at Inria, [Morpheo Team](https://team.inria.fr/morpheo/) for 6 months .
-  under the supervision of [Dr. Edmond Boyer](https://morpheo.inrialpes.fr/people/Boyer/) and [Dr. Joao Regateiro](https://joaoregateiro.github.io/).
+  * I worked on graph convolutional networks to solve for 3D shape correspondence at Inria, [Morpheo Team](https://team.inria.fr/morpheo/) for 6 months under the supervision of [Dr. Edmond Boyer](https://morpheo.inrialpes.fr/people/Boyer/) and [Dr. Joao Regateiro](https://joaoregateiro.github.io/).
   
 Soft Skills
 ======
