@@ -21,6 +21,7 @@ Human performance capture mobilizes a variety of research directions:
 * Surface/shape representation.
 * Surface/shape processing with neural networks.
 * Surface/shape matching.
+* Surface/shape reconstruction.
 * Surface/shape deformation/motion representation.
 
 
