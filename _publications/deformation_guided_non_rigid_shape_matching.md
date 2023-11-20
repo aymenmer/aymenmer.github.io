@@ -9,4 +9,4 @@ paperurl: 'https://proceedings.bmvc2023.org/417/'
 ---
 **Aymen Merrouche**, Joao Regateiro, Stefanie Wuhrer, Edmond Boyer
 
-[Link to Paper, Supplementary, Poster, Video and Code]([http://academicpages.github.io/files/paper3.pdf](https://proceedings.bmvc2023.org/417/))
+[Link to Paper, Supplementary, Poster, Video and Code](https://proceedings.bmvc2023.org/417/)
