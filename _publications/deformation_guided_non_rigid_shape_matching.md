@@ -9,6 +9,4 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 **Aymen Merrouche**, Joao Regateiro, Stefanie Wuhrer, Edmond Boyer
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-[Implementation](https://gitlab.inria.fr/amerrouc/deformation-guided-unsupervised-non-rigid-shape-matching)
+[Link to Paper, Supplementary, Poster, Video and Code]([http://academicpages.github.io/files/paper3.pdf](https://proceedings.bmvc2023.org/417/))
