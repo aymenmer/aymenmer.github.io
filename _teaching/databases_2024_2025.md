@@ -2,7 +2,7 @@
 title: "Database Project (Spring 2024/2025)"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/databases_2024_2025.md
+permalink: /teaching/databases_2024_2025
 venue: "Grenoble INP - Ensimag, UGA, Computer Science"
 date: 2025-01-01
 location: "Grenoble, France"
