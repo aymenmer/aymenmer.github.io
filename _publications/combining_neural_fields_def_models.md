@@ -14,7 +14,7 @@ paperurl: 'https://arxiv.org/abs/2412.08511'
 [Arxiv Preprint](https://arxiv.org/abs/2412.08511)
 
 
-<p float="left"style="display: flex; justify-content: space-between;">
+<p float="left">
   <img src="../images/nf3dm_sample_result_2.png" width="40%" />
   <img src="../images/nf3dm_sample_result_1.png" width="50%" />
 </p>
