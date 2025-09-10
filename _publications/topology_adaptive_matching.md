@@ -14,4 +14,4 @@ paperurl: 'https://arxiv.org/abs/2509.06862'
 [Arxiv Preprint](https://arxiv.org/abs/2509.06862)
 
 ![Method Diagram](../images/teaser_topoadaptive.png)  
-*Figure: To match two meshes $\M$ and $\N$ with topological artefacts (see red boxes), we jointly optimise for a template $\T$, initialised as either $\M$ or $\N$, and its alignments $\tilde{\T}_{\M}$ and $\tilde{\T}_{\N}$ with $\M$ and $\N$ using a novel topology adaptive deformation model (see green box) under ARAP and bijective associations constraints.*
+*Figure: To match two meshes $\mathcal{M}$ and $\mathcal{N}$ with topological artefacts (see red boxes), we jointly optimise for a template $\mathcal{T}$, initialised as either $\mathcal{M}$ or $\mathcal{N}$, and its alignments $\tilde{\mathcal{T}}_{\mathcal{M}}$ and $\tilde{\mathcal{T}}_{\mathcal{N}}$ with $\mathcal{M}$ and $\mathcal{N}$ using a novel topology adaptive deformation model (see green box) under ARAP and bijective associations constraints.*
